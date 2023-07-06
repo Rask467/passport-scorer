@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Airdrop</title>
+        <title>Gitcoin Passport: Airdrop app demo</title>
         <meta
           name="description"
           content="A sample app to demonstrate using the Gitcoin passport scorer API"
